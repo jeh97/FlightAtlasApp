@@ -84,6 +84,7 @@
 				16FCB0BA2486B128008C0C0B /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		16FCB0BA2486B128008C0C0B /* Products */ = {
 			isa = PBXGroup;
